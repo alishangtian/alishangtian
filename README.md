@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alishangtian from baidu
-- 👀 I’m interested in 分布式
+- 👀 I’m interested in 分布式、AI
 - 🌱 I’m currently learning 隐私计算
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alishangtian@gmail.com

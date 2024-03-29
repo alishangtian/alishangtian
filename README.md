@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishangtian from baidu
 - 👀 I’m interested in 分布式、AI
-- 🌱 I’m currently learning 隐私计算
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alishangtian@gmail.com
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alishangtian from baidu
-- 👀 I’m interested in java 、分布式、LLM、AI Agent
-- 🌱 I’m currently learning LLM
+- 👀 I’m interested in AIGC、AGI
+- 🌱 I’m currently learning LLM、Langchain、Fine-tunning
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alishangtian@gmail.com
 <!---

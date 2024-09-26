@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alishangtian from baidu
+- 👋 Hi, I’m @alishangtian from 360
 - 👀 I’m interested in AIGC、AGI
-- 🌱 I’m currently learning LLM、Langchain、Fine-tunning
+- 🌱 I have been delving deeply into LLM、Fine-tunning、Agentic-Workflow
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alishangtian@gmail.com
 <!---

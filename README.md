@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Alishangtian from 360
-- 🌐 Interests: AIGC (Artificial Intelligence Generated Content) and AGI (Artificial General Intelligence).
-- 🧠 Expertise: Deeply involved in LLMs (Large Language Models), fine-tuning, and agentic workflows.
+- 🌐 Interests: AIGC and AGI.
+- 🧠 Expertise: Deeply involved in LLMs, Agent, MultiAgent, SFT, RL, RLHF, Agentic-Workflow.
 - 🤝 Collaboration: Open to collaborating on any projects or ideas.
 - 📧 Contact: You can reach me at alishangtian@gmail.com.
 <!---

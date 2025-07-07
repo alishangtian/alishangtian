@@ -1,5 +1,5 @@
-- 👋 Hello, I'm Alishangtian from 360
-- 🌐 Interests: AIGC and AGI.
+- 👋 Hello, I'm Alishangtian from msxf
+- 🌐 Interests: AIGC、AGI and ASI
 - 🧠 Expertise: Deeply involved in LLMs, Agent, MultiAgent, SFT, RL, RLHF, Agentic-Workflow.
 - 🤝 Collaboration: Open to collaborating on any projects or ideas.
 - 📧 Contact: You can reach me at alishangtian@gmail.com.
